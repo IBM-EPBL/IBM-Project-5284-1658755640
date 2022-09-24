@@ -1,1 +1,1 @@
-This is a repository to do IBM-Naalaya Thiran Program
+This folder is for assessments that must be submitted for IBM-Naalaya thiran.
