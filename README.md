@@ -1,4 +1,4 @@
-![Web-Phishing Image](https://assets.website-files.com/61007e2ce513c4c9a173590b/627e5398c88f275fe4817219_Getting%20Rid%20of%20Phishing%20Scams.png height=500 width=250)
+![Web-Phishing Image](https://assets.website-files.com/61007e2ce513c4c9a173590b/627e5398c88f275fe4817219_Getting%20Rid%20of%20Phishing%20Scams.png |height=500 width=250)
 ## This project is done under the guidance of IBM-Naalaya Thiran Program :fishing_pole_and_fish: <br/>
 # Project-Name : **Web Phishing Detection**<br/>
 # Team Members : <br/>
